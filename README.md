@@ -10,6 +10,7 @@ This notebook demonstrates the use of following Python techniques:
 - Data processing using Pandas (data cleansing and merging)
 - Interactive data visualization with Plotly 
 - Choropleth Mapping with Plotly
+- Build and deploy dashboard using Dash
 
 Note:
 
