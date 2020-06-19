@@ -5,12 +5,12 @@ References:
 Data Souces:
 - https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
 
-This notebook demonstrates the use of following Python techniques:
-- Web scrapting using requests and beautiful soup
-- Data processing using Pandas (data cleansing and merging)
+This notebook demonstrates the use of the following Python techniques:
+- Web scraping using requests and beautiful soup
+- Data analysis using Pandas (data cleansing and merging)
 - Interactive data visualization with Plotly 
 - Choropleth Mapping with Plotly
-- Build and deploy dashboard using Dash
+- Build and deploy dashboard webapp using Dash
 
 Note:
 
