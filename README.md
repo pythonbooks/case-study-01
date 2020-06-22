@@ -1,5 +1,6 @@
 # Case Study #1 - US Population by States
 References:
+- https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
 - https://www.indexmundi.com/facts/united-states/quick-facts/all-states/population#map
 
 Data Souces:
