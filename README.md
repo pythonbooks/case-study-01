@@ -7,6 +7,7 @@ Data Souces:
 
 This notebook demonstrates the use of the following Python techniques:
 - Web scraping using requests and beautiful soup
+   - alternatively, use Pandas read_html. see us_population.ipynb
 - Data analysis using Pandas (data cleansing and merging)
 - Interactive data visualization with Plotly 
 - Choropleth Mapping with Plotly
