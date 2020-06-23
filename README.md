@@ -1,16 +1,18 @@
 # Case Study #1 - US Population by States
 References:
+- https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
 - https://www.indexmundi.com/facts/united-states/quick-facts/all-states/population#map
 
 Data Souces:
 - https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
 
-This notebook demonstrates the use of following Python techniques:
-- Web scrapting using requests and beautiful soup
-- Data processing using Pandas (data cleansing and merging)
+This notebook demonstrates the use of the following Python techniques:
+- Web scraping using requests and beautiful soup
+   - alternatively, use Pandas read_html. see us_population.ipynb
+- Data analysis using Pandas (data cleansing and merging)
 - Interactive data visualization with Plotly 
 - Choropleth Mapping with Plotly
-- Build and deploy dashboard using Dash
+- Build and deploy dashboard webapp using Dash
 
 Note:
 
